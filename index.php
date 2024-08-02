@@ -14,8 +14,8 @@ use Netflie\WhatsAppCloudApi\Message\OptionsList\Action;
 
 // Instantiate the WhatsAppCloudApi super class.
 $whatsapp_cloud_api = new WhatsAppCloudApi([
-    'from_phone_number_id' => '',
-    'access_token' => '',
+    'from_phone_number_id' => '338044756066554',
+    'access_token' => 'EAAVhVVJnTnsBO5c1vZBHmo6MXBlan1wodYq8lO52ZAO334J2G6ntBdXZB8gRprpxKntOchd01lmPOOTgnv2SegvdfJVp7SPewgWCmZBnhZCPZBz2G11u4V7bZBiwpdJIulOkzvRtnZB20YJM7ZBLnTeD1600FpDzLDavZBLN75nSN0bZBFLqhGURMOQPG08TLTj8mz0tAZDZD',
 ]);
 
 try {
